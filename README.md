@@ -54,13 +54,13 @@ The clean and aggregated data was translated into visual stories to provide clea
 > *Note: Place your uploaded screenshots inside a folder named `images/` in your repository and update the paths below if necessary.*
 
 ##### **Dashboard Page 1: Content Breakdown Overview**
-![Content Split & Production Geographies](DPA3_1.png)
+![Content Split & Production Geographies](dashboard/DPA3_1.png)
 
 ##### **Dashboard Page 2: Ratings, Runtimes, and Seasonal Distributions**
-![Maturity Ratings & Runtime Analysis](DPA3_2.png)
+![Maturity Ratings & Runtime Analysis](dashboard/DPA3_2.png)
 
 ##### **Dashboard Page 3: Top Creator & Talent Insights**
-![Top Directors and Actor Castings](DPA3_3.jpg)
+![Top Directors and Actor Castings](dashboard/DPA3_3.png)
 
 ---
 
