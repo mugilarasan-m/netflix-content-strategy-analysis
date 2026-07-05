@@ -1,6 +1,6 @@
 # Netflix Content Analysis Project
 
-## 📌 Project Overview
+## Project Overview
 This project delivers an end-to-end data analysis solution focused on exploring and understanding Netflix's global content library. By analyzing dataset features such as titles, genres, release years, production countries, maturity ratings, and cast/crew credits, this project uncovers content distribution patterns, runtime trends, and key localized strategies.
 
 The workflow spans across three major stages:
@@ -10,7 +10,7 @@ The workflow spans across three major stages:
 
 ---
 
-## 🚀 Key Insights & Findings
+## Key Insights & Findings
 * **Peak Content Era:** Content additions peaked significantly in **2019**, showing a heavy strategic push right before the global shift in streaming dynamics.
 * **Geographical Dominance:** The **United States** leads content production by a massive margin (2,323+ titles), followed by **India** (622 titles) and Great Britain (404 titles).
 * **Target Audience Demographics:** Mature content (**TV-MA**) holds a commanding **15.09% share** of the overall library, marking a distinct focus on adult/young-adult audiences.
@@ -26,14 +26,14 @@ The workflow spans across three major stages:
 
 ---
 
-## 📊 Dataset Structure
+## Dataset Structure
 The analysis relies on two primary relational datasets:
 * **`titles.csv`:** Contains descriptive details of every movie or TV show available (ID, type, title, release year, age certification, runtime, genres, production countries, seasons).
 * **`credits.csv`:** Connects titles to their respective cast and crew members (ID, name, character role).
 
 ---
 
-## ⚙️ Project Implementation Steps
+## Project Implementation Steps
 
 ### 1. Data Cleaning & Preprocessing (Python)
 The raw dataset contained nested structures, missing entries, and duplicates. The `data_cleaning.ipynb` notebook handled the following:
@@ -64,7 +64,7 @@ The clean and aggregated data was translated into visual stories to provide clea
 
 ---
 
-## 📂 Repository File Directory
+## Repository File Directory
 ```text
 ├── dataset/                  # Source data files (titles.csv, credits.csv)
 ├── images/                   # Dashboard screenshots used in README
