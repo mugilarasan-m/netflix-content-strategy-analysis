@@ -18,7 +18,7 @@ The workflow spans across three major stages:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Data Manipulation:** Python `pandas`, `numpy`, `ast`
 * **Exploratory Data Analysis (EDA):** Jupyter Notebooks, `matplotlib`, `seaborn`
 * **Database Management:** SQL (MySQL) using CTEs, string manipulation, and recursive joins
