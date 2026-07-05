@@ -51,7 +51,6 @@ The script `sql_analysis.sql` leverages advanced querying techniques to answer k
 The clean and aggregated data was translated into visual stories to provide clear tracking metrics. 
 
 #### Dashboard Previews
-> *Note: Place your uploaded screenshots inside a folder named `images/` in your repository and update the paths below if necessary.*
 
 ##### **Dashboard Page 1: Content Breakdown Overview**
 ![Content Split & Production Geographies](dashboard/DPA3_1.png)
